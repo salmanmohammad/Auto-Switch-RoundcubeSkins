@@ -3,7 +3,7 @@
     "type": "roundcube-plugin",
     "description": "Auto_Switch_RoundcubeSkins Plugin for Roundcube",
     "keywords": ["mobile","skin","responsive","design"],
-    "homepage": "https://github.com/salmanmohammad/skin-switcher-plugin",
+    "homepage": "https://github.com/salmanmohammad/Auto_Switch_RoundcubeSkins",
     "license": "GPL-3.0+",
     "version": "0.4.5",
     "authors": [
