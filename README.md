@@ -6,7 +6,7 @@ Auto Switch RoundcubeSkins Plugin for Roundcube 1.1.5
 Presentation
 ------------
 
-Plugin for adding the ability of switching between desktop skin and mobile skin. There is an automatic switch with the user-agent of the browser and a manual switch with two buttons (Desktop view and Mobile view)
+Plugin for adding the ability of switching between desktop skin and mobile skin. There is an automatic switch with the user-agent of the browser and a manual switch with button (Mobile view on desktop)
 
 It will automatically detect current skin and when you open RC webmail on mobile it will use corresponding mobile skin for mobile device and desktop skin for desktop device.
 
