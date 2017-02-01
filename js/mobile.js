@@ -1,7 +1,6 @@
 /**
- * Plugin Mobile for Roundcube
+ * Plugin Auto-Switch-RoundcubeSkins for Roundcube
  * 
- * Add new skin mobile to Roundcube
  * 
  * Javascript mobile file
  * 
